@@ -42,7 +42,7 @@ class Stream extends Component {
             <div className="wrapper bg-main" style={{paddingTop:"90px", paddingBottom:"50px"}}>
                 <div className="content-wrapper container-fluid">
                 <div className="col-md-6">
-                    <div className="col-md-8 col-md-offset-2 ">
+                    <div className="col-md-8 col-md-offset-2">
                         <img id="stream" src={this.state.url} height="300" width="400"/>
                     </div>
                 </div>
